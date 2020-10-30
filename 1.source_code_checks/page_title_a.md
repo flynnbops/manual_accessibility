@@ -8,7 +8,7 @@
 ## Test Steps
 
 |Step  |Action |
-|--|--|--|
+|--|--|
 |1|Examine the source code of the HTML or XHTML document and check that a non-empty title element appears in the head section.|
 |2|Check that the title element describes the document|
 
