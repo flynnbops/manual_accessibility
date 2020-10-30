@@ -1,7 +1,7 @@
 #  Identify Input Purpose (AA)
 
 ## Background
-[Success Criterion 1.3.5 ]('https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html')
+[Success Criterion 1.3.5](https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html)
 
 > HTML is formatted correctly.
 

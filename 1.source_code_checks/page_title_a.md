@@ -1,7 +1,7 @@
 # Page Titled (A)												
 
 ## Background
-[Success Criterion 2.4.2 ]('https://www.w3.org/WAI/WCAG21/Understanding/page-titled')
+[Success Criterion 2.4.2 ](https://www.w3.org/WAI/WCAG21/Understanding/page-titled)
 
 > Web pages have titles that describe topic or purpose.
 

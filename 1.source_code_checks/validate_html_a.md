@@ -2,7 +2,7 @@
 
 ## Background
 
-[Success Criterion 3.1.2 ]('https://www.w3.org/WAI/WCAG21/Understanding/parsing.html')
+[Success Criterion 3.1.2 ](https://www.w3.org/WAI/WCAG21/Understanding/parsing.html)
 
 > HTML is formatted correctly.
 

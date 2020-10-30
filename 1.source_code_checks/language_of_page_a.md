@@ -1,7 +1,7 @@
 # Language of Page (A)
 
 ## Background
-[Success Criterion 3.1.1 ]('https://www.w3.org/WAI/WCAG21/Understanding/language-of-page.html')
+[Success Criterion 3.1.1 ](https://www.w3.org/WAI/WCAG21/Understanding/language-of-page.html)
 
 > Page language is correctly identified
 
