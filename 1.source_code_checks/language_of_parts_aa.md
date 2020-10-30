@@ -1,7 +1,7 @@
 # Language of Parts (AA)
 
 ## Background
-[Success Criterion 3.1.1 ](https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts.html)
+[Success Criterion 3.1.2 ](https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts.html)
 
 > Page languages are correctly identified when more than one is used
 
